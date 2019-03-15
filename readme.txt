@@ -4,6 +4,7 @@ launch the app:
 (1) using webserver for chrome;
 (2) select scenario folder;
 (3) click the web server url;
+(4) from the browser choose Views/Scenario/Index.html to display
 
 
 play with the app
