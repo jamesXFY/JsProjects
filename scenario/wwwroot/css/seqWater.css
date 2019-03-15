@@ -1,0 +1,72 @@
+/* SEQ Water Stylesheet */
+
+/* 
+FONTS <link href="https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700|Roboto+Condensed:400,300,700" rel="stylesheet" > */
+
+
+
+
+
+
+
+/* COLOURS */
+
+/* greys */
+.txt-grey {
+    color: #666;
+}
+
+.txt-grey-1 {
+    color: #8c8c8c;
+}
+
+.txt-grey-2 {
+    color: #cccccc;
+}
+
+.bg-grey {
+    background-color: #f6f6f6;
+}
+
+/* nav*/
+.bg-aqua { /*links border etc */
+    background-color: #00aff3;
+}
+.bg-sea { /*form borders button bg */
+    background-color: #00aff3;
+}
+.bg-naval { /* header bg */
+    background-color: #034a8b;
+}
+.bg-algae { /*  footer bg */
+    background-color: #0099ab;
+}
+
+/* more colours */
+.bg-bub {
+    background-color: #7ed5f7;
+}
+.bg-aqua {
+    background-color: #117cab;
+}
+.bg-beige {
+    background-color: #d2b985;
+}
+.bg-charred {
+    background-color: #484847;
+}
+.bg-hemi-orange {
+    background-color: #ff5203;
+}
+.bg-khaki {
+    background-color: #82a68e;
+}
+.bg-oceanic {
+    background-color: #189dd6;
+}
+.bg-coal {
+    background-color: #676766;
+}
+.bg-depth {
+    background-color: #1c9fd8;
+} 

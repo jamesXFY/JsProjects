@@ -1,0 +1,145 @@
+#originalMap {
+    position: absolute;
+    width: 90%;
+    height: 560px;
+    clip-path: polygon(0 0,49.7% 0,49.7% 100%,0 100%);
+}
+
+#targetMap {
+    position: absolute;
+    width: 90%;
+    height: 560px;
+    clip-path: polygon(50.3% 0,100% 0,100% 100%,50.3% 100%);
+}
+
+input[type="g"] {
+    width: 100%;
+}
+
+
+/* VIS TYPOGRAPHY */
+
+text {
+    fill:#acacae;
+    font-family: 'Roboto', Helvetica, Arial, sans-serif !important; 
+    font-weight: 500;
+    line-height: 1;
+}
+
+text.small {
+        font-size: 0.8rem !important;
+    }
+
+text.small.title {
+    fill: #ffffff;
+}
+
+text.middle {
+        font-size: 1rem !important;
+    }
+
+text.large {
+        font-size: 2rem !important;
+    }
+
+text.large.title {
+   
+ }
+tspan {
+    fill: #ffffff;
+}
+tspan.small {
+    font-size: 0.8rem !important;
+    font-weight:400;
+}
+
+tspan.middle {
+    font-size: 18px !important;
+}
+
+tspan.large {
+    font-size: 2rem !important;
+    font-weight: 700;
+}
+#OVERALLRISK text.large { font-weight:700; } 
+#OVERALLRISK text.small.title {
+    font-family: "Roboto Condensed", Helvetica, Arial, sans-serif !important;
+    font-size: 1.1rem !important;
+    font-weight: 700;
+}
+#OVERALLRISK text.middle {
+    font-size:1.6rem !important;
+    font-weight:700;
+}
+
+#INTERVENTIONDESCRIPTION svg text > tspan:first-child tspan:last-child {
+    font-size: 0.6rem !important;
+}
+
+
+.mapDiv {
+    height: 560px !important;
+}
+.svgDiv {
+    display: inline-block;
+    position: relative;
+    /*padding-bottom: 10%;  depends on svg ratio, for my zebra height/width = 1.2 so padding-bottom = 50% * 1.2 = 60% */
+    vertical-align: middle;
+    height:100%;
+}
+
+.svgDiv.text-right,
+.svgDiv.text-left { width:41%; }
+.svgDiv.text-center { width: 16%; }
+
+
+#INTERVENTIONDESCRIPTION .svgDiv {
+    background: #08BFDD;
+    border-top:1rem solid #08BFDD;
+    margin: 0 1rem 1rem 0; 
+    padding: 2rem 0 1rem 0;
+    width: 46%;
+}
+
+.title {
+    height: 10%;
+}
+
+.bartitle {
+    height: 6%;
+}
+
+.barchart {
+    height: 24%;
+}
+
+.svgRight {
+    display: block;
+    position: absolute;
+    width: 90%;
+    height: 96%;
+    top: 2%;
+    bottom: 2%;
+    left: 5%;
+    right: 5%;
+}
+.rectDescription {
+
+    width: 100%;
+    height: 100%;
+    fill: #08BFDD
+}
+
+.customer-label {
+    height: 30px;
+    vertical-align : middle;
+}
+label.control-label {
+    height: 100%;
+    vertical-align: middle;
+}
+
+div.maps {
+    width: 93%;
+    /*height: 100%;*/
+}

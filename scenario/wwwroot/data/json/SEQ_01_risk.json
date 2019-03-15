@@ -1,0 +1,2082 @@
+[
+ {
+   "LocationId": 0,
+   "TSS Hillslope": 3,
+   "TSS Gully": 4,
+   "TSS Inchannel": 3,
+   "TSS Point": 3,
+   "TSS Total": 3,
+   "Microbial": 3,
+   "Combined": 4
+ },
+ {
+   "LocationId": 1,
+   "TSS Hillslope": 1.577122485,
+   "TSS Gully": 3.178963157,
+   "TSS Inchannel": 2.144273814,
+   "TSS Point": 2.155630172,
+   "TSS Total": 2.454892164,
+   "Microbial": 2.457932881,
+   "Combined": 4
+ },
+ {
+   "LocationId": 2,
+   "TSS Hillslope": 2.328905113,
+   "TSS Gully": 4.810276231,
+   "TSS Inchannel": 1.08083902,
+   "TSS Point": 2.342153979,
+   "TSS Total": 1.020080111,
+   "Microbial": 2.794214557,
+   "Combined": 5
+ },
+ {
+   "LocationId": 3,
+   "TSS Hillslope": 2.734014488,
+   "TSS Gully": 3.911491797,
+   "TSS Inchannel": 1,
+   "TSS Point": 2.853570553,
+   "TSS Total": 1,
+   "Microbial": 1,
+   "Combined": 4
+ },
+ {
+   "LocationId": 4,
+   "TSS Hillslope": 4.57859168,
+   "TSS Gully": 3.003441093,
+   "TSS Inchannel": 1.433545004,
+   "TSS Point": 2.049484806,
+   "TSS Total": 1.018790797,
+   "Microbial": 1.579068381,
+   "Combined": 5
+ },
+ {
+   "LocationId": 5,
+   "TSS Hillslope": 2.531615684,
+   "TSS Gully": 2.397111031,
+   "TSS Inchannel": 1.819541836,
+   "TSS Point": 1,
+   "TSS Total": 4.292500943,
+   "Microbial": 2.475305924,
+   "Combined": 5
+ },
+ {
+   "LocationId": 6,
+   "TSS Hillslope": 1.553090962,
+   "TSS Gully": 1,
+   "TSS Inchannel": 4.907365113,
+   "TSS Point": 2.399963057,
+   "TSS Total": 1.225030311,
+   "Microbial": 2.726932241,
+   "Combined": 5
+ },
+ {
+   "LocationId": 7,
+   "TSS Hillslope": 4.258513348,
+   "TSS Gully": 1.532501774,
+   "TSS Inchannel": 2.295129466,
+   "TSS Point": 4.943599125,
+   "TSS Total": 2.857366292,
+   "Microbial": 4.235146665,
+   "Combined": 5
+ },
+ {
+   "LocationId": 8,
+   "TSS Hillslope": 3.242006232,
+   "TSS Gully": 2.813187616,
+   "TSS Inchannel": 2.751886709,
+   "TSS Point": 1.046107518,
+   "TSS Total": 3.319955521,
+   "Microbial": 2.709957467,
+   "Combined": 4
+ },
+ {
+   "LocationId": 9,
+   "TSS Hillslope": 3.809608049,
+   "TSS Gully": 3.52810993,
+   "TSS Inchannel": 1.798345642,
+   "TSS Point": 3.496165302,
+   "TSS Total": 2.750173456,
+   "Microbial": 1.66819907,
+   "Combined": 4
+ },
+ {
+   "LocationId": 10,
+   "TSS Hillslope": 2.99231355,
+   "TSS Gully": 4.467027977,
+   "TSS Inchannel": 3.916280187,
+   "TSS Point": 1,
+   "TSS Total": 4.310313922,
+   "Microbial": 1.634507695,
+   "Combined": 5
+ },
+ {
+   "LocationId": 11,
+   "TSS Hillslope": 1.257822197,
+   "TSS Gully": 3.243405669,
+   "TSS Inchannel": 2.092963323,
+   "TSS Point": 3.37467977,
+   "TSS Total": 1,
+   "Microbial": 4.94617357,
+   "Combined": 5
+ },
+ {
+   "LocationId": 12,
+   "TSS Hillslope": 4.977536745,
+   "TSS Gully": 1,
+   "TSS Inchannel": 2.360125847,
+   "TSS Point": 2.625901739,
+   "TSS Total": 3.683187668,
+   "Microbial": 1.17950467,
+   "Combined": 5
+ },
+ {
+   "LocationId": 13,
+   "TSS Hillslope": 2.43957027,
+   "TSS Gully": 1.810187644,
+   "TSS Inchannel": 1,
+   "TSS Point": 1,
+   "TSS Total": 2.031651215,
+   "Microbial": 2.483266516,
+   "Combined": 3
+ },
+ {
+   "LocationId": 14,
+   "TSS Hillslope": 2.530584745,
+   "TSS Gully": 2.403365407,
+   "TSS Inchannel": 2.867868073,
+   "TSS Point": 4.654830156,
+   "TSS Total": 1,
+   "Microbial": 4.024859048,
+   "Combined": 5
+ },
+ {
+   "LocationId": 15,
+   "TSS Hillslope": 1,
+   "TSS Gully": 2.831035171,
+   "TSS Inchannel": 3.389706721,
+   "TSS Point": 3.570514484,
+   "TSS Total": 2.886608738,
+   "Microbial": 3.430778919,
+   "Combined": 4
+ },
+ {
+   "LocationId": 16,
+   "TSS Hillslope": 1.923964167,
+   "TSS Gully": 3.590723633,
+   "TSS Inchannel": 1,
+   "TSS Point": 1,
+   "TSS Total": 1.346729931,
+   "Microbial": 2.128843199,
+   "Combined": 4
+ },
+ {
+   "LocationId": 17,
+   "TSS Hillslope": 2.608021839,
+   "TSS Gully": 2.23110017,
+   "TSS Inchannel": 1,
+   "TSS Point": 2.513288304,
+   "TSS Total": 3.070401795,
+   "Microbial": 3.652742903,
+   "Combined": 4
+ },
+ {
+   "LocationId": 18,
+   "TSS Hillslope": 4.8471245,
+   "TSS Gully": 3.124269093,
+   "TSS Inchannel": 2.809981603,
+   "TSS Point": 2.051115731,
+   "TSS Total": 2.247796338,
+   "Microbial": 2.695743876,
+   "Combined": 5
+ },
+ {
+   "LocationId": 19,
+   "TSS Hillslope": 1.569281709,
+   "TSS Gully": 1.369347043,
+   "TSS Inchannel": 1.212461879,
+   "TSS Point": 2.334726162,
+   "TSS Total": 1.476243618,
+   "Microbial": 2.692936711,
+   "Combined": 3
+ },
+ {
+   "LocationId": 20,
+   "TSS Hillslope": 3.901179428,
+   "TSS Gully": 1,
+   "TSS Inchannel": 2.608550373,
+   "TSS Point": 1,
+   "TSS Total": 1.668535325,
+   "Microbial": 4.612767435,
+   "Combined": 5
+ },
+ {
+   "LocationId": 21,
+   "TSS Hillslope": 1.178888221,
+   "TSS Gully": 3.765138301,
+   "TSS Inchannel": 1.720985605,
+   "TSS Point": 1.752887423,
+   "TSS Total": 3.478740587,
+   "Microbial": 2.140100026,
+   "Combined": 4
+ },
+ {
+   "LocationId": 22,
+   "TSS Hillslope": 2.1982149,
+   "TSS Gully": 1.96964516,
+   "TSS Inchannel": 1.510762681,
+   "TSS Point": 1,
+   "TSS Total": 1.101856665,
+   "Microbial": 3.456109169,
+   "Combined": 4
+ },
+ {
+   "LocationId": 23,
+   "TSS Hillslope": 2.825533704,
+   "TSS Gully": 3.431349465,
+   "TSS Inchannel": 3.145147294,
+   "TSS Point": 2.953927757,
+   "TSS Total": 2.643243989,
+   "Microbial": 2.609478807,
+   "Combined": 4
+ },
+ {
+   "LocationId": 24,
+   "TSS Hillslope": 4.951916177,
+   "TSS Gully": 4.686696496,
+   "TSS Inchannel": 1,
+   "TSS Point": 2.713038563,
+   "TSS Total": 3.34589321,
+   "Microbial": 1,
+   "Combined": 5
+ },
+ {
+   "LocationId": 25,
+   "TSS Hillslope": 1,
+   "TSS Gully": 1.025500394,
+   "TSS Inchannel": 2.172202607,
+   "TSS Point": 3.284759581,
+   "TSS Total": 3.466377484,
+   "Microbial": 1.035998861,
+   "Combined": 4
+ },
+ {
+   "LocationId": 26,
+   "TSS Hillslope": 1,
+   "TSS Gully": 1,
+   "TSS Inchannel": 1,
+   "TSS Point": 3.196960791,
+   "TSS Total": 3.503178,
+   "Microbial": 2.60930867,
+   "Combined": 4
+ },
+ {
+   "LocationId": 27,
+   "TSS Hillslope": 2.944345715,
+   "TSS Gully": 4.898238714,
+   "TSS Inchannel": 1,
+   "TSS Point": 1.078689131,
+   "TSS Total": 2.779322513,
+   "Microbial": 1.10938494,
+   "Combined": 5
+ },
+ {
+   "LocationId": 28,
+   "TSS Hillslope": 3.017110642,
+   "TSS Gully": 1.771104221,
+   "TSS Inchannel": 2.29252331,
+   "TSS Point": 2.221967904,
+   "TSS Total": 1.550673573,
+   "Microbial": 2.508109354,
+   "Combined": 4
+ },
+ {
+   "LocationId": 29,
+   "TSS Hillslope": 1.182931399,
+   "TSS Gully": 1,
+   "TSS Inchannel": 2.181610943,
+   "TSS Point": 1.343514439,
+   "TSS Total": 1.826715103,
+   "Microbial": 2.062250481,
+   "Combined": 3
+ },
+ {
+   "LocationId": 30,
+   "TSS Hillslope": 3.286879649,
+   "TSS Gully": 3.166086286,
+   "TSS Inchannel": 1.485445337,
+   "TSS Point": 2.042238004,
+   "TSS Total": 2.309587625,
+   "Microbial": 4.949245292,
+   "Combined": 5
+ },
+ {
+   "LocationId": 31,
+   "TSS Hillslope": 1,
+   "TSS Gully": 3.843327675,
+   "TSS Inchannel": 4.191564241,
+   "TSS Point": 1,
+   "TSS Total": 3.83186394,
+   "Microbial": 1,
+   "Combined": 5
+ },
+ {
+   "LocationId": 32,
+   "TSS Hillslope": 1.92158346,
+   "TSS Gully": 2.440841962,
+   "TSS Inchannel": 1,
+   "TSS Point": 2.817211832,
+   "TSS Total": 2.410088741,
+   "Microbial": 2.872110814,
+   "Combined": 3
+ },
+ {
+   "LocationId": 33,
+   "TSS Hillslope": 3.661831429,
+   "TSS Gully": 1,
+   "TSS Inchannel": 1.101619282,
+   "TSS Point": 2.810795403,
+   "TSS Total": 2.169396153,
+   "Microbial": 2.823428614,
+   "Combined": 4
+ },
+ {
+   "LocationId": 34,
+   "TSS Hillslope": 2.298792082,
+   "TSS Gully": 1.079032436,
+   "TSS Inchannel": 2.657221394,
+   "TSS Point": 1.247433251,
+   "TSS Total": 1.834170105,
+   "Microbial": 1,
+   "Combined": 3
+ },
+ {
+   "LocationId": 35,
+   "TSS Hillslope": 2.919134656,
+   "TSS Gully": 1.397108197,
+   "TSS Inchannel": 2.109818143,
+   "TSS Point": 2.55028474,
+   "TSS Total": 3.254865369,
+   "Microbial": 1.91125733,
+   "Combined": 4
+ },
+ {
+   "LocationId": 36,
+   "TSS Hillslope": 1,
+   "TSS Gully": 2.154113643,
+   "TSS Inchannel": 1,
+   "TSS Point": 1,
+   "TSS Total": 4.354913533,
+   "Microbial": 1.364104066,
+   "Combined": 5
+ },
+ {
+   "LocationId": 37,
+   "TSS Hillslope": 2.31380585,
+   "TSS Gully": 1,
+   "TSS Inchannel": 1.496578076,
+   "TSS Point": 1.843122993,
+   "TSS Total": 1,
+   "Microbial": 1.916726806,
+   "Combined": 3
+ },
+ {
+   "LocationId": 38,
+   "TSS Hillslope": 4.895978557,
+   "TSS Gully": 1.158616213,
+   "TSS Inchannel": 1,
+   "TSS Point": 1.62032094,
+   "TSS Total": 2.229475965,
+   "Microbial": 1,
+   "Combined": 5
+ },
+ {
+   "LocationId": 39,
+   "TSS Hillslope": 1,
+   "TSS Gully": 2.720507383,
+   "TSS Inchannel": 1,
+   "TSS Point": 1,
+   "TSS Total": 2.959381397,
+   "Microbial": 4.415537437,
+   "Combined": 5
+ },
+ {
+   "LocationId": 40,
+   "TSS Hillslope": 1.151961955,
+   "TSS Gully": 4.965167808,
+   "TSS Inchannel": 3.459170076,
+   "TSS Point": 2.172225341,
+   "TSS Total": 1,
+   "Microbial": 2.923439877,
+   "Combined": 5
+ },
+ {
+   "LocationId": 41,
+   "TSS Hillslope": 2.922369422,
+   "TSS Gully": 1,
+   "TSS Inchannel": 3.498621068,
+   "TSS Point": 3.584580804,
+   "TSS Total": 2.833417045,
+   "Microbial": 2.203573724,
+   "Combined": 4
+ },
+ {
+   "LocationId": 42,
+   "TSS Hillslope": 2.045135663,
+   "TSS Gully": 2.21155372,
+   "TSS Inchannel": 2.537918764,
+   "TSS Point": 1.011460114,
+   "TSS Total": 1.911298358,
+   "Microbial": 4.916556304,
+   "Combined": 5
+ },
+ {
+   "LocationId": 43,
+   "TSS Hillslope": 1.673413059,
+   "TSS Gully": 1.328128074,
+   "TSS Inchannel": 2.353472138,
+   "TSS Point": 4.190232718,
+   "TSS Total": 2.016534854,
+   "Microbial": 1,
+   "Combined": 5
+ },
+ {
+   "LocationId": 44,
+   "TSS Hillslope": 3.308420677,
+   "TSS Gully": 4.74399382,
+   "TSS Inchannel": 2.002424738,
+   "TSS Point": 2.276931687,
+   "TSS Total": 4.456572751,
+   "Microbial": 2.874268977,
+   "Combined": 5
+ },
+ {
+   "LocationId": 45,
+   "TSS Hillslope": 4.375217436,
+   "TSS Gully": 1,
+   "TSS Inchannel": 4.777021386,
+   "TSS Point": 1,
+   "TSS Total": 2.733388461,
+   "Microbial": 2.875925194,
+   "Combined": 5
+ },
+ {
+   "LocationId": 46,
+   "TSS Hillslope": 3.178272191,
+   "TSS Gully": 3.491076388,
+   "TSS Inchannel": 1,
+   "TSS Point": 2.357972109,
+   "TSS Total": 1.905785363,
+   "Microbial": 1,
+   "Combined": 4
+ },
+ {
+   "LocationId": 47,
+   "TSS Hillslope": 1,
+   "TSS Gully": 3.204291069,
+   "TSS Inchannel": 4.071190417,
+   "TSS Point": 1.997540351,
+   "TSS Total": 4.447977732,
+   "Microbial": 4.638691445,
+   "Combined": 5
+ },
+ {
+   "LocationId": 48,
+   "TSS Hillslope": 3.846735322,
+   "TSS Gully": 2.787044143,
+   "TSS Inchannel": 1,
+   "TSS Point": 4.48445626,
+   "TSS Total": 2.361851893,
+   "Microbial": 2.228916149,
+   "Combined": 5
+ },
+ {
+   "LocationId": 49,
+   "TSS Hillslope": 1.996167474,
+   "TSS Gully": 3.35168499,
+   "TSS Inchannel": 1,
+   "TSS Point": 1,
+   "TSS Total": 1.957517642,
+   "Microbial": 1.333890246,
+   "Combined": 4
+ },
+ {
+   "LocationId": 50,
+   "TSS Hillslope": 1,
+   "TSS Gully": 3.447805092,
+   "TSS Inchannel": 1.900490632,
+   "TSS Point": 1.841285115,
+   "TSS Total": 3.386433802,
+   "Microbial": 1,
+   "Combined": 4
+ },
+ {
+   "LocationId": 51,
+   "TSS Hillslope": 1.772015938,
+   "TSS Gully": 2.52600282,
+   "TSS Inchannel": 1,
+   "TSS Point": 3.255981444,
+   "TSS Total": 1,
+   "Microbial": 4.552404047,
+   "Combined": 5
+ },
+ {
+   "LocationId": 52,
+   "TSS Hillslope": 1.556366205,
+   "TSS Gully": 1.960925013,
+   "TSS Inchannel": 1.208803884,
+   "TSS Point": 2.361489274,
+   "TSS Total": 1,
+   "Microbial": 3.491105912,
+   "Combined": 4
+ },
+ {
+   "LocationId": 53,
+   "TSS Hillslope": 4.525152934,
+   "TSS Gully": 3.61649412,
+   "TSS Inchannel": 4.374267961,
+   "TSS Point": 2.162366315,
+   "TSS Total": 1.260224862,
+   "Microbial": 2.973694913,
+   "Combined": 5
+ },
+ {
+   "LocationId": 54,
+   "TSS Hillslope": 1.437752844,
+   "TSS Gully": 3.867220678,
+   "TSS Inchannel": 3.230579195,
+   "TSS Point": 1,
+   "TSS Total": 2.338648426,
+   "Microbial": 1.619080716,
+   "Combined": 4
+ },
+ {
+   "LocationId": 55,
+   "TSS Hillslope": 1,
+   "TSS Gully": 3.885953767,
+   "TSS Inchannel": 4.721484562,
+   "TSS Point": 2.03314379,
+   "TSS Total": 1,
+   "Microbial": 1.714510569,
+   "Combined": 5
+ },
+ {
+   "LocationId": 56,
+   "TSS Hillslope": 4.173683993,
+   "TSS Gully": 3.490283945,
+   "TSS Inchannel": 2.831684823,
+   "TSS Point": 2.324059425,
+   "TSS Total": 1,
+   "Microbial": 1.598900896,
+   "Combined": 5
+ },
+ {
+   "LocationId": 57,
+   "TSS Hillslope": 1,
+   "TSS Gully": 2.064996383,
+   "TSS Inchannel": 1,
+   "TSS Point": 1,
+   "TSS Total": 1,
+   "Microbial": 3.465347533,
+   "Combined": 4
+ },
+ {
+   "LocationId": 58,
+   "TSS Hillslope": 1,
+   "TSS Gully": 1,
+   "TSS Inchannel": 2.467980117,
+   "TSS Point": 1.323207169,
+   "TSS Total": 2.578054697,
+   "Microbial": 1.526307182,
+   "Combined": 3
+ },
+ {
+   "LocationId": 59,
+   "TSS Hillslope": 1.978608641,
+   "TSS Gully": 1,
+   "TSS Inchannel": 3.411511121,
+   "TSS Point": 1.578276697,
+   "TSS Total": 2.064366176,
+   "Microbial": 2.799929692,
+   "Combined": 4
+ },
+ {
+   "LocationId": 60,
+   "TSS Hillslope": 2.970787843,
+   "TSS Gully": 2.749631573,
+   "TSS Inchannel": 4.992207765,
+   "TSS Point": 2.71663699,
+   "TSS Total": 3.499437945,
+   "Microbial": 1.59988804,
+   "Combined": 5
+ },
+ {
+   "LocationId": 61,
+   "TSS Hillslope": 1.248432821,
+   "TSS Gully": 2.420812083,
+   "TSS Inchannel": 4.874789611,
+   "TSS Point": 1,
+   "TSS Total": 3.23165814,
+   "Microbial": 1.860411048,
+   "Combined": 5
+ },
+ {
+   "LocationId": 62,
+   "TSS Hillslope": 1.609355928,
+   "TSS Gully": 1.319251394,
+   "TSS Inchannel": 2.47258084,
+   "TSS Point": 2.939576309,
+   "TSS Total": 2.181377333,
+   "Microbial": 1,
+   "Combined": 3
+ },
+ {
+   "LocationId": 63,
+   "TSS Hillslope": 1,
+   "TSS Gully": 1,
+   "TSS Inchannel": 2.721892523,
+   "TSS Point": 2.420601952,
+   "TSS Total": 3.094940071,
+   "Microbial": 4.032108272,
+   "Combined": 5
+ },
+ {
+   "LocationId": 64,
+   "TSS Hillslope": 1,
+   "TSS Gully": 1.019213034,
+   "TSS Inchannel": 1,
+   "TSS Point": 1,
+   "TSS Total": 2.711917239,
+   "Microbial": 2.814523938,
+   "Combined": 3
+ },
+ {
+   "LocationId": 65,
+   "TSS Hillslope": 3.421851027,
+   "TSS Gully": 2.656388331,
+   "TSS Inchannel": 1,
+   "TSS Point": 1.357574384,
+   "TSS Total": 1,
+   "Microbial": 1,
+   "Combined": 4
+ },
+ {
+   "LocationId": 66,
+   "TSS Hillslope": 1.544036131,
+   "TSS Gully": 2.356195915,
+   "TSS Inchannel": 3.674158843,
+   "TSS Point": 2.556273016,
+   "TSS Total": 3.843119104,
+   "Microbial": 1.417047514,
+   "Combined": 4
+ },
+ {
+   "LocationId": 67,
+   "TSS Hillslope": 3.144304678,
+   "TSS Gully": 1,
+   "TSS Inchannel": 1,
+   "TSS Point": 2.39995206,
+   "TSS Total": 2.638358662,
+   "Microbial": 3.047327643,
+   "Combined": 4
+ },
+ {
+   "LocationId": 68,
+   "TSS Hillslope": 1.415650179,
+   "TSS Gully": 3.348300598,
+   "TSS Inchannel": 2.986920762,
+   "TSS Point": 1,
+   "TSS Total": 2.560924237,
+   "Microbial": 4.634951413,
+   "Combined": 5
+ },
+ {
+   "LocationId": 69,
+   "TSS Hillslope": 1,
+   "TSS Gully": 3.209717445,
+   "TSS Inchannel": 1.742176206,
+   "TSS Point": 3.443011703,
+   "TSS Total": 2.636838663,
+   "Microbial": 1,
+   "Combined": 4
+ },
+ {
+   "LocationId": 70,
+   "TSS Hillslope": 4.144363137,
+   "TSS Gully": 2.499578718,
+   "TSS Inchannel": 2.583256713,
+   "TSS Point": 2.072384342,
+   "TSS Total": 1.414950879,
+   "Microbial": 1,
+   "Combined": 5
+ },
+ {
+   "LocationId": 71,
+   "TSS Hillslope": 3.417076115,
+   "TSS Gully": 1.193014448,
+   "TSS Inchannel": 1.031472206,
+   "TSS Point": 2.961969363,
+   "TSS Total": 2.024423677,
+   "Microbial": 2.005190667,
+   "Combined": 4
+ },
+ {
+   "LocationId": 72,
+   "TSS Hillslope": 2.193055482,
+   "TSS Gully": 1.347130235,
+   "TSS Inchannel": 2.230742291,
+   "TSS Point": 1,
+   "TSS Total": 3.148548493,
+   "Microbial": 1,
+   "Combined": 4
+ },
+ {
+   "LocationId": 73,
+   "TSS Hillslope": 1.791662726,
+   "TSS Gully": 1.267710509,
+   "TSS Inchannel": 2.386828262,
+   "TSS Point": 2.98648716,
+   "TSS Total": 1,
+   "Microbial": 2.170563463,
+   "Combined": 3
+ },
+ {
+   "LocationId": 74,
+   "TSS Hillslope": 3.268205764,
+   "TSS Gully": 4.263458465,
+   "TSS Inchannel": 1.839802484,
+   "TSS Point": 2.262319018,
+   "TSS Total": 1.239197789,
+   "Microbial": 1,
+   "Combined": 5
+ },
+ {
+   "LocationId": 75,
+   "TSS Hillslope": 3.901385868,
+   "TSS Gully": 3.226683943,
+   "TSS Inchannel": 1.201203698,
+   "TSS Point": 1.815283045,
+   "TSS Total": 2.956715421,
+   "Microbial": 1,
+   "Combined": 4
+ },
+ {
+   "LocationId": 76,
+   "TSS Hillslope": 3.270139315,
+   "TSS Gully": 2.61214845,
+   "TSS Inchannel": 2.509171606,
+   "TSS Point": 1.008474521,
+   "TSS Total": 3.187264609,
+   "Microbial": 2.498944691,
+   "Combined": 4
+ },
+ {
+   "LocationId": 77,
+   "TSS Hillslope": 1,
+   "TSS Gully": 1,
+   "TSS Inchannel": 1.195051848,
+   "TSS Point": 2.569552186,
+   "TSS Total": 1.148536498,
+   "Microbial": 2.881675219,
+   "Combined": 3
+ },
+ {
+   "LocationId": 78,
+   "TSS Hillslope": 1.968488489,
+   "TSS Gully": 1.139052205,
+   "TSS Inchannel": 1.385813939,
+   "TSS Point": 2.104969031,
+   "TSS Total": 1,
+   "Microbial": 2.273980647,
+   "Combined": 3
+ },
+ {
+   "LocationId": 79,
+   "TSS Hillslope": 3.159157246,
+   "TSS Gully": 1.58857608,
+   "TSS Inchannel": 4.560619514,
+   "TSS Point": 3.669329729,
+   "TSS Total": 1.882222396,
+   "Microbial": 1,
+   "Combined": 5
+ },
+ {
+   "LocationId": 80,
+   "TSS Hillslope": 1.581936654,
+   "TSS Gully": 1,
+   "TSS Inchannel": 4.531157523,
+   "TSS Point": 1,
+   "TSS Total": 2.10495848,
+   "Microbial": 2.822500946,
+   "Combined": 5
+ },
+ {
+   "LocationId": 81,
+   "TSS Hillslope": 1.444268883,
+   "TSS Gully": 2.963857633,
+   "TSS Inchannel": 1.472026346,
+   "TSS Point": 1,
+   "TSS Total": 1.697789997,
+   "Microbial": 1,
+   "Combined": 3
+ },
+ {
+   "LocationId": 82,
+   "TSS Hillslope": 1.006864456,
+   "TSS Gully": 1,
+   "TSS Inchannel": 2.947039104,
+   "TSS Point": 2.229742809,
+   "TSS Total": 1,
+   "Microbial": 3.145669888,
+   "Combined": 4
+ },
+ {
+   "LocationId": 83,
+   "TSS Hillslope": 1.07352064,
+   "TSS Gully": 1.39076417,
+   "TSS Inchannel": 2.946330853,
+   "TSS Point": 1.071747655,
+   "TSS Total": 1.208895085,
+   "Microbial": 3.110076603,
+   "Combined": 4
+ },
+ {
+   "LocationId": 84,
+   "TSS Hillslope": 1.531179577,
+   "TSS Gully": 3.35278069,
+   "TSS Inchannel": 4.00128724,
+   "TSS Point": 3.365474694,
+   "TSS Total": 3.18931518,
+   "Microbial": 3.619368424,
+   "Combined": 5
+ },
+ {
+   "LocationId": 85,
+   "TSS Hillslope": 1.657568128,
+   "TSS Gully": 1,
+   "TSS Inchannel": 1.938217687,
+   "TSS Point": 2.725266645,
+   "TSS Total": 2.387684424,
+   "Microbial": 1,
+   "Combined": 3
+ },
+ {
+   "LocationId": 86,
+   "TSS Hillslope": 3.275368417,
+   "TSS Gully": 1,
+   "TSS Inchannel": 2.438663356,
+   "TSS Point": 1,
+   "TSS Total": 2.224675086,
+   "Microbial": 2.102821297,
+   "Combined": 4
+ },
+ {
+   "LocationId": 87,
+   "TSS Hillslope": 1.941461535,
+   "TSS Gully": 1.148381656,
+   "TSS Inchannel": 1.34665075,
+   "TSS Point": 3.5670233,
+   "TSS Total": 1,
+   "Microbial": 1.890899829,
+   "Combined": 4
+ },
+ {
+   "LocationId": 88,
+   "TSS Hillslope": 1,
+   "TSS Gully": 4.382167106,
+   "TSS Inchannel": 2.497571371,
+   "TSS Point": 2.641187999,
+   "TSS Total": 3.349698405,
+   "Microbial": 2.551630933,
+   "Combined": 5
+ },
+ {
+   "LocationId": 89,
+   "TSS Hillslope": 3.136124344,
+   "TSS Gully": 1.319803915,
+   "TSS Inchannel": 1,
+   "TSS Point": 2.408014569,
+   "TSS Total": 4.931626876,
+   "Microbial": 3.135999722,
+   "Combined": 5
+ },
+ {
+   "LocationId": 90,
+   "TSS Hillslope": 1,
+   "TSS Gully": 2.943300271,
+   "TSS Inchannel": 1,
+   "TSS Point": 1,
+   "TSS Total": 1,
+   "Microbial": 1,
+   "Combined": 3
+ },
+ {
+   "LocationId": 91,
+   "TSS Hillslope": 3.2530785,
+   "TSS Gully": 2.729924671,
+   "TSS Inchannel": 1.018899336,
+   "TSS Point": 3.477594529,
+   "TSS Total": 3.205932954,
+   "Microbial": 4.830940838,
+   "Combined": 5
+ },
+ {
+   "LocationId": 92,
+   "TSS Hillslope": 4.026769816,
+   "TSS Gully": 4.064926385,
+   "TSS Inchannel": 1.412964467,
+   "TSS Point": 3.6291594,
+   "TSS Total": 2.461363413,
+   "Microbial": 1.488277522,
+   "Combined": 5
+ },
+ {
+   "LocationId": 93,
+   "TSS Hillslope": 1,
+   "TSS Gully": 1,
+   "TSS Inchannel": 4.013516316,
+   "TSS Point": 4.357596741,
+   "TSS Total": 2.991702675,
+   "Microbial": 1,
+   "Combined": 5
+ },
+ {
+   "LocationId": 94,
+   "TSS Hillslope": 2.035654856,
+   "TSS Gully": 2.015996604,
+   "TSS Inchannel": 1.513586866,
+   "TSS Point": 2.128773676,
+   "TSS Total": 2.751562177,
+   "Microbial": 2.408513981,
+   "Combined": 3
+ },
+ {
+   "LocationId": 95,
+   "TSS Hillslope": 4.593048538,
+   "TSS Gully": 1,
+   "TSS Inchannel": 1.874632238,
+   "TSS Point": 1.767499356,
+   "TSS Total": 2.657641187,
+   "Microbial": 3.082819597,
+   "Combined": 5
+ },
+ {
+   "LocationId": 96,
+   "TSS Hillslope": 1.302852886,
+   "TSS Gully": 3.435072842,
+   "TSS Inchannel": 2.58825059,
+   "TSS Point": 2.085319902,
+   "TSS Total": 4.821959074,
+   "Microbial": 1.994229047,
+   "Combined": 5
+ },
+ {
+   "LocationId": 97,
+   "TSS Hillslope": 4.19679954,
+   "TSS Gully": 2.929558906,
+   "TSS Inchannel": 1.61907211,
+   "TSS Point": 4.232027958,
+   "TSS Total": 1,
+   "Microbial": 1,
+   "Combined": 5
+ },
+ {
+   "LocationId": 98,
+   "TSS Hillslope": 4.619016042,
+   "TSS Gully": 2.604431544,
+   "TSS Inchannel": 1.617894786,
+   "TSS Point": 1.819478608,
+   "TSS Total": 2.141614772,
+   "Microbial": 2.918367222,
+   "Combined": 5
+ },
+ {
+   "LocationId": 99,
+   "TSS Hillslope": 1,
+   "TSS Gully": 2.899897919,
+   "TSS Inchannel": 1.648091241,
+   "TSS Point": 2.371010883,
+   "TSS Total": 2.599957469,
+   "Microbial": 1.769534858,
+   "Combined": 3
+ },
+ {
+   "LocationId": 100,
+   "TSS Hillslope": 1.998848911,
+   "TSS Gully": 1.437939821,
+   "TSS Inchannel": 2.176120739,
+   "TSS Point": 3.073343094,
+   "TSS Total": 2.45881027,
+   "Microbial": 1,
+   "Combined": 4
+ },
+ {
+   "LocationId": 101,
+   "TSS Hillslope": 1.232815513,
+   "TSS Gully": 1.661122397,
+   "TSS Inchannel": 2.019261136,
+   "TSS Point": 1.274786236,
+   "TSS Total": 1,
+   "Microbial": 1,
+   "Combined": 3
+ },
+ {
+   "LocationId": 102,
+   "TSS Hillslope": 2.555461512,
+   "TSS Gully": 3.316862323,
+   "TSS Inchannel": 1,
+   "TSS Point": 2.18094484,
+   "TSS Total": 1,
+   "Microbial": 1.591208759,
+   "Combined": 4
+ },
+ {
+   "LocationId": 103,
+   "TSS Hillslope": 2.969442758,
+   "TSS Gully": 4.925395175,
+   "TSS Inchannel": 4.013603981,
+   "TSS Point": 2.368884238,
+   "TSS Total": 1,
+   "Microbial": 1,
+   "Combined": 5
+ },
+ {
+   "LocationId": 104,
+   "TSS Hillslope": 2.150697416,
+   "TSS Gully": 3.998897712,
+   "TSS Inchannel": 3.44332745,
+   "TSS Point": 3.1823142,
+   "TSS Total": 2.823629447,
+   "Microbial": 1,
+   "Combined": 4
+ },
+ {
+   "LocationId": 105,
+   "TSS Hillslope": 1.108695275,
+   "TSS Gully": 3.084193764,
+   "TSS Inchannel": 3.82610092,
+   "TSS Point": 2.787736652,
+   "TSS Total": 1.625570164,
+   "Microbial": 2.45200571,
+   "Combined": 4
+ },
+ {
+   "LocationId": 106,
+   "TSS Hillslope": 1.321265032,
+   "TSS Gully": 1,
+   "TSS Inchannel": 2.491818839,
+   "TSS Point": 2.487848713,
+   "TSS Total": 1.038432366,
+   "Microbial": 1,
+   "Combined": 3
+ },
+ {
+   "LocationId": 107,
+   "TSS Hillslope": 2.907754379,
+   "TSS Gully": 2.685869879,
+   "TSS Inchannel": 1.348559765,
+   "TSS Point": 1,
+   "TSS Total": 1,
+   "Microbial": 4.165224849,
+   "Combined": 5
+ },
+ {
+   "LocationId": 108,
+   "TSS Hillslope": 2.34910514,
+   "TSS Gully": 3.832517836,
+   "TSS Inchannel": 3.17684323,
+   "TSS Point": 4.170422373,
+   "TSS Total": 2.395556077,
+   "Microbial": 4.370942501,
+   "Combined": 5
+ },
+ {
+   "LocationId": 109,
+   "TSS Hillslope": 3.126841796,
+   "TSS Gully": 3.322270663,
+   "TSS Inchannel": 2.978219732,
+   "TSS Point": 1,
+   "TSS Total": 4.664217116,
+   "Microbial": 4.172700765,
+   "Combined": 5
+ },
+ {
+   "LocationId": 110,
+   "TSS Hillslope": 1,
+   "TSS Gully": 3.034673569,
+   "TSS Inchannel": 2.9829821,
+   "TSS Point": 1,
+   "TSS Total": 2.237791423,
+   "Microbial": 2.673527079,
+   "Combined": 4
+ },
+ {
+   "LocationId": 111,
+   "TSS Hillslope": 1,
+   "TSS Gully": 1,
+   "TSS Inchannel": 1,
+   "TSS Point": 1.898344542,
+   "TSS Total": 1.716393007,
+   "Microbial": 3.395796528,
+   "Combined": 4
+ },
+ {
+   "LocationId": 112,
+   "TSS Hillslope": 4.821868126,
+   "TSS Gully": 2.299953686,
+   "TSS Inchannel": 3.444377297,
+   "TSS Point": 1,
+   "TSS Total": 1,
+   "Microbial": 2.79138409,
+   "Combined": 5
+ },
+ {
+   "LocationId": 113,
+   "TSS Hillslope": 1,
+   "TSS Gully": 1,
+   "TSS Inchannel": 1,
+   "TSS Point": 2.599267456,
+   "TSS Total": 1,
+   "Microbial": 1,
+   "Combined": 3
+ },
+ {
+   "LocationId": 114,
+   "TSS Hillslope": 3.564974149,
+   "TSS Gully": 4.678643006,
+   "TSS Inchannel": 3.089173016,
+   "TSS Point": 2.807638193,
+   "TSS Total": 1,
+   "Microbial": 1,
+   "Combined": 5
+ },
+ {
+   "LocationId": 115,
+   "TSS Hillslope": 2.662019197,
+   "TSS Gully": 3.324921073,
+   "TSS Inchannel": 1.482206316,
+   "TSS Point": 4.768221261,
+   "TSS Total": 2.002727728,
+   "Microbial": 2.844478679,
+   "Combined": 5
+ },
+ {
+   "LocationId": 116,
+   "TSS Hillslope": 1,
+   "TSS Gully": 2.558565831,
+   "TSS Inchannel": 3.433868354,
+   "TSS Point": 1.550228082,
+   "TSS Total": 4.050085899,
+   "Microbial": 1.999876013,
+   "Combined": 5
+ },
+ {
+   "LocationId": 117,
+   "TSS Hillslope": 4.611899664,
+   "TSS Gully": 2.926809054,
+   "TSS Inchannel": 2.349439376,
+   "TSS Point": 1,
+   "TSS Total": 3.047203728,
+   "Microbial": 1,
+   "Combined": 5
+ },
+ {
+   "LocationId": 118,
+   "TSS Hillslope": 2.415605065,
+   "TSS Gully": 3.341173627,
+   "TSS Inchannel": 1,
+   "TSS Point": 1.328020036,
+   "TSS Total": 1,
+   "Microbial": 2.448890875,
+   "Combined": 4
+ },
+ {
+   "LocationId": 119,
+   "TSS Hillslope": 2.05493354,
+   "TSS Gully": 1,
+   "TSS Inchannel": 1,
+   "TSS Point": 1,
+   "TSS Total": 3.450641058,
+   "Microbial": 2.042750397,
+   "Combined": 4
+ },
+ {
+   "LocationId": 120,
+   "TSS Hillslope": 2.510765909,
+   "TSS Gully": 1.031746519,
+   "TSS Inchannel": 1.395874515,
+   "TSS Point": 1.312600389,
+   "TSS Total": 1.998376075,
+   "Microbial": 1,
+   "Combined": 3
+ },
+ {
+   "LocationId": 121,
+   "TSS Hillslope": 1.512485766,
+   "TSS Gully": 1,
+   "TSS Inchannel": 1.239125105,
+   "TSS Point": 2.186565546,
+   "TSS Total": 3.095993672,
+   "Microbial": 3.41835201,
+   "Combined": 4
+ },
+ {
+   "LocationId": 122,
+   "TSS Hillslope": 1.052213562,
+   "TSS Gully": 2.839277447,
+   "TSS Inchannel": 2.574404245,
+   "TSS Point": 4.106530986,
+   "TSS Total": 1.548335817,
+   "Microbial": 3.998411535,
+   "Combined": 5
+ },
+ {
+   "LocationId": 123,
+   "TSS Hillslope": 3.281096488,
+   "TSS Gully": 2.301607779,
+   "TSS Inchannel": 1.188648158,
+   "TSS Point": 1,
+   "TSS Total": 1.574012297,
+   "Microbial": 3.261882037,
+   "Combined": 4
+ },
+ {
+   "LocationId": 124,
+   "TSS Hillslope": 2.902089142,
+   "TSS Gully": 2.106506157,
+   "TSS Inchannel": 1,
+   "TSS Point": 1.747469925,
+   "TSS Total": 2.435558672,
+   "Microbial": 3.95752964,
+   "Combined": 4
+ },
+ {
+   "LocationId": 125,
+   "TSS Hillslope": 1.377992599,
+   "TSS Gully": 2.043467864,
+   "TSS Inchannel": 3.472061113,
+   "TSS Point": 1.036529926,
+   "TSS Total": 3.137824751,
+   "Microbial": 1.760882197,
+   "Combined": 4
+ },
+ {
+   "LocationId": 126,
+   "TSS Hillslope": 1.268532102,
+   "TSS Gully": 1.638764413,
+   "TSS Inchannel": 3.049273091,
+   "TSS Point": 3.376945052,
+   "TSS Total": 2.127830593,
+   "Microbial": 2.51204757,
+   "Combined": 4
+ },
+ {
+   "LocationId": 127,
+   "TSS Hillslope": 4.854879869,
+   "TSS Gully": 1.911464296,
+   "TSS Inchannel": 1.075550597,
+   "TSS Point": 1,
+   "TSS Total": 1,
+   "Microbial": 3.087294347,
+   "Combined": 5
+ },
+ {
+   "LocationId": 128,
+   "TSS Hillslope": 3.988791798,
+   "TSS Gully": 1.792376014,
+   "TSS Inchannel": 3.011035711,
+   "TSS Point": 3.532605425,
+   "TSS Total": 1.143220706,
+   "Microbial": 1,
+   "Combined": 4
+ },
+ {
+   "LocationId": 129,
+   "TSS Hillslope": 2.737966945,
+   "TSS Gully": 1.347888499,
+   "TSS Inchannel": 1,
+   "TSS Point": 2.182338914,
+   "TSS Total": 1.860372822,
+   "Microbial": 1.172093615,
+   "Combined": 3
+ },
+ {
+   "LocationId": 130,
+   "TSS Hillslope": 1.959040343,
+   "TSS Gully": 1,
+   "TSS Inchannel": 1,
+   "TSS Point": 2.528072335,
+   "TSS Total": 4.061812616,
+   "Microbial": 1.414641073,
+   "Combined": 5
+ },
+ {
+   "LocationId": 131,
+   "TSS Hillslope": 1,
+   "TSS Gully": 1.460103647,
+   "TSS Inchannel": 3.449782693,
+   "TSS Point": 1,
+   "TSS Total": 3.412686037,
+   "Microbial": 3.0391046,
+   "Combined": 4
+ },
+ {
+   "LocationId": 132,
+   "TSS Hillslope": 1.91853925,
+   "TSS Gully": 4.527272447,
+   "TSS Inchannel": 2.833628159,
+   "TSS Point": 3.76446379,
+   "TSS Total": 3.80041396,
+   "Microbial": 1,
+   "Combined": 5
+ },
+ {
+   "LocationId": 133,
+   "TSS Hillslope": 2.884351164,
+   "TSS Gully": 2.610410069,
+   "TSS Inchannel": 2.519546421,
+   "TSS Point": 1.51054542,
+   "TSS Total": 1.632644432,
+   "Microbial": 3.631691305,
+   "Combined": 4
+ },
+ {
+   "LocationId": 134,
+   "TSS Hillslope": 3.479494698,
+   "TSS Gully": 3.430585795,
+   "TSS Inchannel": 1,
+   "TSS Point": 1.00816834,
+   "TSS Total": 1.301412948,
+   "Microbial": 2.977892273,
+   "Combined": 4
+ },
+ {
+   "LocationId": 135,
+   "TSS Hillslope": 1.131407007,
+   "TSS Gully": 1,
+   "TSS Inchannel": 2.60209565,
+   "TSS Point": 2.709841208,
+   "TSS Total": 1,
+   "Microbial": 1,
+   "Combined": 3
+ },
+ {
+   "LocationId": 136,
+   "TSS Hillslope": 1.928428041,
+   "TSS Gully": 2.954192086,
+   "TSS Inchannel": 3.406335591,
+   "TSS Point": 1.663771452,
+   "TSS Total": 3.212896324,
+   "Microbial": 3.436364125,
+   "Combined": 4
+ },
+ {
+   "LocationId": 137,
+   "TSS Hillslope": 3.00570175,
+   "TSS Gully": 1.326866937,
+   "TSS Inchannel": 1,
+   "TSS Point": 4.641281681,
+   "TSS Total": 1.239181918,
+   "Microbial": 3.428723161,
+   "Combined": 5
+ },
+ {
+   "LocationId": 138,
+   "TSS Hillslope": 1.372971259,
+   "TSS Gully": 1.872180267,
+   "TSS Inchannel": 2.116285443,
+   "TSS Point": 1.470298947,
+   "TSS Total": 3.028868137,
+   "Microbial": 4.660471681,
+   "Combined": 5
+ },
+ {
+   "LocationId": 139,
+   "TSS Hillslope": 1,
+   "TSS Gully": 2.399349732,
+   "TSS Inchannel": 1.378482342,
+   "TSS Point": 2.845179931,
+   "TSS Total": 1.147689464,
+   "Microbial": 2.139559891,
+   "Combined": 3
+ },
+ {
+   "LocationId": 140,
+   "TSS Hillslope": 3.513948114,
+   "TSS Gully": 1.106858884,
+   "TSS Inchannel": 3.955261175,
+   "TSS Point": 1.912124798,
+   "TSS Total": 1.119876164,
+   "Microbial": 2.846952847,
+   "Combined": 4
+ },
+ {
+   "LocationId": 141,
+   "TSS Hillslope": 1.102489393,
+   "TSS Gully": 1,
+   "TSS Inchannel": 1.329210136,
+   "TSS Point": 1,
+   "TSS Total": 2.475918253,
+   "Microbial": 3.279024934,
+   "Combined": 4
+ },
+ {
+   "LocationId": 142,
+   "TSS Hillslope": 1.166620404,
+   "TSS Gully": 1.781124795,
+   "TSS Inchannel": 2.499874843,
+   "TSS Point": 2.666987671,
+   "TSS Total": 2.277140859,
+   "Microbial": 1.82636766,
+   "Combined": 3
+ },
+ {
+   "LocationId": 143,
+   "TSS Hillslope": 4.045431194,
+   "TSS Gully": 1.118499152,
+   "TSS Inchannel": 1,
+   "TSS Point": 3.2263337,
+   "TSS Total": 2.518038774,
+   "Microbial": 3.725960694,
+   "Combined": 5
+ },
+ {
+   "LocationId": 144,
+   "TSS Hillslope": 1.167934209,
+   "TSS Gully": 4.727094473,
+   "TSS Inchannel": 2.077550745,
+   "TSS Point": 2.168656369,
+   "TSS Total": 3.21117428,
+   "Microbial": 1.011001296,
+   "Combined": 5
+ },
+ {
+   "LocationId": 145,
+   "TSS Hillslope": 1.520887204,
+   "TSS Gully": 4.708179457,
+   "TSS Inchannel": 1.034028566,
+   "TSS Point": 2.916438954,
+   "TSS Total": 1.734766312,
+   "Microbial": 2.406994026,
+   "Combined": 5
+ },
+ {
+   "LocationId": 146,
+   "TSS Hillslope": 2.12497628,
+   "TSS Gully": 2.701361274,
+   "TSS Inchannel": 1.810326768,
+   "TSS Point": 2.600427216,
+   "TSS Total": 1,
+   "Microbial": 1,
+   "Combined": 3
+ },
+ {
+   "LocationId": 147,
+   "TSS Hillslope": 3.390077001,
+   "TSS Gully": 2.316292712,
+   "TSS Inchannel": 3.494695752,
+   "TSS Point": 2.412101651,
+   "TSS Total": 1.245139334,
+   "Microbial": 1.597317102,
+   "Combined": 4
+ },
+ {
+   "LocationId": 148,
+   "TSS Hillslope": 3.066189241,
+   "TSS Gully": 1,
+   "TSS Inchannel": 3.452139974,
+   "TSS Point": 3.197656171,
+   "TSS Total": 1,
+   "Microbial": 3.145192111,
+   "Combined": 4
+ },
+ {
+   "LocationId": 149,
+   "TSS Hillslope": 1,
+   "TSS Gully": 2.974412385,
+   "TSS Inchannel": 1,
+   "TSS Point": 3.794815828,
+   "TSS Total": 2.60455855,
+   "Microbial": 3.003932353,
+   "Combined": 4
+ },
+ {
+   "LocationId": 150,
+   "TSS Hillslope": 2.582923371,
+   "TSS Gully": 1.484535706,
+   "TSS Inchannel": 4.401319986,
+   "TSS Point": 1,
+   "TSS Total": 2.539708987,
+   "Microbial": 3.819212856,
+   "Combined": 5
+ },
+ {
+   "LocationId": 151,
+   "TSS Hillslope": 1.995742766,
+   "TSS Gully": 1.228816008,
+   "TSS Inchannel": 1.476356159,
+   "TSS Point": 1,
+   "TSS Total": 1,
+   "Microbial": 1.34693418,
+   "Combined": 2
+ },
+ {
+   "LocationId": 152,
+   "TSS Hillslope": 1.948571845,
+   "TSS Gully": 1,
+   "TSS Inchannel": 1.940761862,
+   "TSS Point": 1,
+   "TSS Total": 2.384232044,
+   "Microbial": 3.004331223,
+   "Combined": 4
+ },
+ {
+   "LocationId": 153,
+   "TSS Hillslope": 2.219119831,
+   "TSS Gully": 4.860314513,
+   "TSS Inchannel": 1,
+   "TSS Point": 1.775474709,
+   "TSS Total": 1.588437203,
+   "Microbial": 1.388584328,
+   "Combined": 5
+ },
+ {
+   "LocationId": 154,
+   "TSS Hillslope": 1,
+   "TSS Gully": 1.573988109,
+   "TSS Inchannel": 1,
+   "TSS Point": 1,
+   "TSS Total": 2.911781426,
+   "Microbial": 1,
+   "Combined": 3
+ },
+ {
+   "LocationId": 155,
+   "TSS Hillslope": 2.741848391,
+   "TSS Gully": 2.347779783,
+   "TSS Inchannel": 2.878544281,
+   "TSS Point": 2.300439585,
+   "TSS Total": 2.977387575,
+   "Microbial": 3.106902391,
+   "Combined": 4
+ },
+ {
+   "LocationId": 156,
+   "TSS Hillslope": 1.994053323,
+   "TSS Gully": 1.342348702,
+   "TSS Inchannel": 1.908311783,
+   "TSS Point": 2.714998402,
+   "TSS Total": 3.374387959,
+   "Microbial": 3.485905191,
+   "Combined": 4
+ },
+ {
+   "LocationId": 157,
+   "TSS Hillslope": 1.688821758,
+   "TSS Gully": 1,
+   "TSS Inchannel": 1.380410958,
+   "TSS Point": 1,
+   "TSS Total": 2.889011764,
+   "Microbial": 2.534730438,
+   "Combined": 3
+ },
+ {
+   "LocationId": 158,
+   "TSS Hillslope": 2.738683345,
+   "TSS Gully": 4.558444176,
+   "TSS Inchannel": 2.513424739,
+   "TSS Point": 1.792733204,
+   "TSS Total": 1,
+   "Microbial": 1.021109767,
+   "Combined": 5
+ },
+ {
+   "LocationId": 159,
+   "TSS Hillslope": 1,
+   "TSS Gully": 4.983676284,
+   "TSS Inchannel": 1,
+   "TSS Point": 3.269045328,
+   "TSS Total": 4.06451036,
+   "Microbial": 2.04977924,
+   "Combined": 5
+ },
+ {
+   "LocationId": 160,
+   "TSS Hillslope": 3.657434294,
+   "TSS Gully": 1.939680896,
+   "TSS Inchannel": 2.735835886,
+   "TSS Point": 1.519851971,
+   "TSS Total": 2.914692904,
+   "Microbial": 4.895835951,
+   "Combined": 5
+ },
+ {
+   "LocationId": 161,
+   "TSS Hillslope": 3.34261333,
+   "TSS Gully": 3.785398928,
+   "TSS Inchannel": 3.214652274,
+   "TSS Point": 3.208411574,
+   "TSS Total": 1.004393638,
+   "Microbial": 1,
+   "Combined": 4
+ },
+ {
+   "LocationId": 162,
+   "TSS Hillslope": 1.150853251,
+   "TSS Gully": 1,
+   "TSS Inchannel": 2.028499256,
+   "TSS Point": 1.792969572,
+   "TSS Total": 1,
+   "Microbial": 1.170278038,
+   "Combined": 3
+ },
+ {
+   "LocationId": 163,
+   "TSS Hillslope": 3.323119435,
+   "TSS Gully": 3.489283034,
+   "TSS Inchannel": 1,
+   "TSS Point": 1.478629931,
+   "TSS Total": 1.164307053,
+   "Microbial": 4.390287783,
+   "Combined": 5
+ },
+ {
+   "LocationId": 164,
+   "TSS Hillslope": 1,
+   "TSS Gully": 1.72243779,
+   "TSS Inchannel": 1,
+   "TSS Point": 2.58149656,
+   "TSS Total": 3.822266995,
+   "Microbial": 3.259416911,
+   "Combined": 4
+ },
+ {
+   "LocationId": 165,
+   "TSS Hillslope": 3.287903666,
+   "TSS Gully": 1.876919818,
+   "TSS Inchannel": 1.751894907,
+   "TSS Point": 1.081411096,
+   "TSS Total": 1,
+   "Microbial": 1.270278806,
+   "Combined": 4
+ },
+ {
+   "LocationId": 166,
+   "TSS Hillslope": 2.717311181,
+   "TSS Gully": 2.466398272,
+   "TSS Inchannel": 1.732849087,
+   "TSS Point": 3.955746238,
+   "TSS Total": 1,
+   "Microbial": 1.175624067,
+   "Combined": 4
+ },
+ {
+   "LocationId": 167,
+   "TSS Hillslope": 2.437838047,
+   "TSS Gully": 1.379436156,
+   "TSS Inchannel": 1.108603312,
+   "TSS Point": 1.671119002,
+   "TSS Total": 4.307259389,
+   "Microbial": 1.97216142,
+   "Combined": 5
+ },
+ {
+   "LocationId": 168,
+   "TSS Hillslope": 2.106156033,
+   "TSS Gully": 3.180670499,
+   "TSS Inchannel": 1,
+   "TSS Point": 1.774864063,
+   "TSS Total": 1.293079561,
+   "Microbial": 4.328638018,
+   "Combined": 5
+ },
+ {
+   "LocationId": 169,
+   "TSS Hillslope": 1,
+   "TSS Gully": 1,
+   "TSS Inchannel": 2.740437138,
+   "TSS Point": 1.635436052,
+   "TSS Total": 1.410748307,
+   "Microbial": 3.089836839,
+   "Combined": 4
+ },
+ {
+   "LocationId": 170,
+   "TSS Hillslope": 1.217300661,
+   "TSS Gully": 1,
+   "TSS Inchannel": 4.135360309,
+   "TSS Point": 3.485569502,
+   "TSS Total": 1.513421442,
+   "Microbial": 2.669929878,
+   "Combined": 5
+ },
+ {
+   "LocationId": 171,
+   "TSS Hillslope": 1.419450048,
+   "TSS Gully": 2.936540631,
+   "TSS Inchannel": 1,
+   "TSS Point": 1.952299241,
+   "TSS Total": 1,
+   "Microbial": 4.91778327,
+   "Combined": 5
+ },
+ {
+   "LocationId": 172,
+   "TSS Hillslope": 2.266434848,
+   "TSS Gully": 1.41606713,
+   "TSS Inchannel": 3.844049756,
+   "TSS Point": 1.329689684,
+   "TSS Total": 2.277278323,
+   "Microbial": 3.781674333,
+   "Combined": 4
+ },
+ {
+   "LocationId": 173,
+   "TSS Hillslope": 1.792742369,
+   "TSS Gully": 2.130229175,
+   "TSS Inchannel": 1,
+   "TSS Point": 1.07203672,
+   "TSS Total": 1,
+   "Microbial": 2.769164721,
+   "Combined": 3
+ },
+ {
+   "LocationId": 174,
+   "TSS Hillslope": 1.184277757,
+   "TSS Gully": 2.70645923,
+   "TSS Inchannel": 3.235242412,
+   "TSS Point": 1,
+   "TSS Total": 1.758371499,
+   "Microbial": 2.968930052,
+   "Combined": 4
+ },
+ {
+   "LocationId": 175,
+   "TSS Hillslope": 4.742803997,
+   "TSS Gully": 2.191937606,
+   "TSS Inchannel": 2.015291719,
+   "TSS Point": 3.622127157,
+   "TSS Total": 2.48993016,
+   "Microbial": 4.7262198,
+   "Combined": 5
+ },
+ {
+   "LocationId": 176,
+   "TSS Hillslope": 1,
+   "TSS Gully": 1,
+   "TSS Inchannel": 1.264658012,
+   "TSS Point": 2.71228838,
+   "TSS Total": 1.194240807,
+   "Microbial": 1,
+   "Combined": 3
+ },
+ {
+   "LocationId": 177,
+   "TSS Hillslope": 2.970313375,
+   "TSS Gully": 3.911585821,
+   "TSS Inchannel": 2.017318302,
+   "TSS Point": 2.327934747,
+   "TSS Total": 4.830083502,
+   "Microbial": 2.351857884,
+   "Combined": 5
+ },
+ {
+   "LocationId": 178,
+   "TSS Hillslope": 1,
+   "TSS Gully": 3.29492021,
+   "TSS Inchannel": 1,
+   "TSS Point": 4.004848416,
+   "TSS Total": 1.445401268,
+   "Microbial": 1.649653572,
+   "Combined": 5
+ },
+ {
+   "LocationId": 179,
+   "TSS Hillslope": 4.351368443,
+   "TSS Gully": 2.587343597,
+   "TSS Inchannel": 1.804587407,
+   "TSS Point": 2.107060908,
+   "TSS Total": 1,
+   "Microbial": 2.937835524,
+   "Combined": 5
+ },
+ {
+   "LocationId": 180,
+   "TSS Hillslope": 2.008531553,
+   "TSS Gully": 1.47550647,
+   "TSS Inchannel": 3.704454156,
+   "TSS Point": 4.094236464,
+   "TSS Total": 4.809443637,
+   "Microbial": 1,
+   "Combined": 5
+ },
+ {
+   "LocationId": 181,
+   "TSS Hillslope": 4.061190099,
+   "TSS Gully": 2.763078628,
+   "TSS Inchannel": 1.732063692,
+   "TSS Point": 1,
+   "TSS Total": 1,
+   "Microbial": 1,
+   "Combined": 5
+ },
+ {
+   "LocationId": 182,
+   "TSS Hillslope": 1.501321383,
+   "TSS Gully": 1,
+   "TSS Inchannel": 2.888780266,
+   "TSS Point": 3.774600936,
+   "TSS Total": 3.20355421,
+   "Microbial": 1.556922779,
+   "Combined": 4
+ },
+ {
+   "LocationId": 183,
+   "TSS Hillslope": 4.655460262,
+   "TSS Gully": 1.536539462,
+   "TSS Inchannel": 1,
+   "TSS Point": 1,
+   "TSS Total": 2.631214641,
+   "Microbial": 1.611970645,
+   "Combined": 5
+ },
+ {
+   "LocationId": 184,
+   "TSS Hillslope": 1,
+   "TSS Gully": 3.129483011,
+   "TSS Inchannel": 2.345170265,
+   "TSS Point": 1.197354491,
+   "TSS Total": 2.649734698,
+   "Microbial": 1.422380149,
+   "Combined": 4
+ },
+ {
+   "LocationId": 185,
+   "TSS Hillslope": 1.793598394,
+   "TSS Gully": 1,
+   "TSS Inchannel": 3.070620856,
+   "TSS Point": 1,
+   "TSS Total": 2.006747535,
+   "Microbial": 1,
+   "Combined": 4
+ },
+ {
+   "LocationId": 186,
+   "TSS Hillslope": 1,
+   "TSS Gully": 3.111147411,
+   "TSS Inchannel": 2.21605816,
+   "TSS Point": 1.782640267,
+   "TSS Total": 1,
+   "Microbial": 3.211569732,
+   "Combined": 4
+ },
+ {
+   "LocationId": 187,
+   "TSS Hillslope": 1.562421691,
+   "TSS Gully": 3.640264664,
+   "TSS Inchannel": 4.412032429,
+   "TSS Point": 2.590762863,
+   "TSS Total": 1,
+   "Microbial": 4.672787526,
+   "Combined": 5
+ },
+ {
+   "LocationId": 188,
+   "TSS Hillslope": 4.040956458,
+   "TSS Gully": 3.883446958,
+   "TSS Inchannel": 1.886176211,
+   "TSS Point": 1.071028864,
+   "TSS Total": 2.22857438,
+   "Microbial": 1.715522949,
+   "Combined": 5
+ },
+ {
+   "LocationId": 189,
+   "TSS Hillslope": 1.60678102,
+   "TSS Gully": 2.042541858,
+   "TSS Inchannel": 1.228470312,
+   "TSS Point": 3.285657142,
+   "TSS Total": 3.483470964,
+   "Microbial": 3.749836198,
+   "Combined": 4
+ },
+ {
+   "LocationId": 190,
+   "TSS Hillslope": 2.280013211,
+   "TSS Gully": 2.544987392,
+   "TSS Inchannel": 1,
+   "TSS Point": 1,
+   "TSS Total": 1,
+   "Microbial": 2.457512566,
+   "Combined": 3
+ },
+ {
+   "LocationId": 191,
+   "TSS Hillslope": 3.074841942,
+   "TSS Gully": 2.715854012,
+   "TSS Inchannel": 1,
+   "TSS Point": 2.766414362,
+   "TSS Total": 1,
+   "Microbial": 1.730619921,
+   "Combined": 4
+ },
+ {
+   "LocationId": 192,
+   "TSS Hillslope": 2.880010203,
+   "TSS Gully": 2.80550115,
+   "TSS Inchannel": 2.875782672,
+   "TSS Point": 2.015639147,
+   "TSS Total": 1.560199437,
+   "Microbial": 1.852364334,
+   "Combined": 3
+ },
+ {
+   "LocationId": 193,
+   "TSS Hillslope": 2.717931416,
+   "TSS Gully": 1.801462033,
+   "TSS Inchannel": 1.811283658,
+   "TSS Point": 2.676009676,
+   "TSS Total": 3.193644,
+   "Microbial": 1.116139447,
+   "Combined": 4
+ },
+ {
+   "LocationId": 194,
+   "TSS Hillslope": 2.711153459,
+   "TSS Gully": 3.252234942,
+   "TSS Inchannel": 3.586706978,
+   "TSS Point": 1,
+   "TSS Total": 1.086689874,
+   "Microbial": 1.689068267,
+   "Combined": 4
+ },
+ {
+   "LocationId": 195,
+   "TSS Hillslope": 2.593749519,
+   "TSS Gully": 4.118870776,
+   "TSS Inchannel": 3.029100334,
+   "TSS Point": 1.777400189,
+   "TSS Total": 1.098491246,
+   "Microbial": 1.005020229,
+   "Combined": 5
+ },
+ {
+   "LocationId": 196,
+   "TSS Hillslope": 3.987049745,
+   "TSS Gully": 1,
+   "TSS Inchannel": 3.6404481,
+   "TSS Point": 1.430943285,
+   "TSS Total": 1,
+   "Microbial": 1.213735615,
+   "Combined": 4
+ },
+ {
+   "LocationId": 197,
+   "TSS Hillslope": 1.792728593,
+   "TSS Gully": 3.007422726,
+   "TSS Inchannel": 1.519130879,
+   "TSS Point": 2.279961803,
+   "TSS Total": 1,
+   "Microbial": 1.154327909,
+   "Combined": 4
+ },
+ {
+   "LocationId": 198,
+   "TSS Hillslope": 2.522449541,
+   "TSS Gully": 2.782150322,
+   "TSS Inchannel": 3.462146549,
+   "TSS Point": 2.711357738,
+   "TSS Total": 3.98795838,
+   "Microbial": 1,
+   "Combined": 4
+ },
+ {
+   "LocationId": 199,
+   "TSS Hillslope": 2.815775119,
+   "TSS Gully": 2.116707416,
+   "TSS Inchannel": 4.974736846,
+   "TSS Point": 1.515980202,
+   "TSS Total": 2.316847482,
+   "Microbial": 4.840948365,
+   "Combined": 5
+ },
+ {
+   "LocationId": 200,
+   "TSS Hillslope": 1.824033639,
+   "TSS Gully": 3.997646494,
+   "TSS Inchannel": 4.705672054,
+   "TSS Point": 1,
+   "TSS Total": 2.760377755,
+   "Microbial": 1,
+   "Combined": 5
+ },
+ {
+   "LocationId": 201,
+   "TSS Hillslope": 4.460026068,
+   "TSS Gully": 4.33729415,
+   "TSS Inchannel": 2.437245336,
+   "TSS Point": 3.061220882,
+   "TSS Total": 1.297207851,
+   "Microbial": 1,
+   "Combined": 5
+ },
+ {
+   "LocationId": 202,
+   "TSS Hillslope": 1,
+   "TSS Gully": 3.719483909,
+   "TSS Inchannel": 1.682045238,
+   "TSS Point": 2.135558097,
+   "TSS Total": 2.350578342,
+   "Microbial": 1.593438624,
+   "Combined": 4
+ },
+ {
+   "LocationId": 203,
+   "TSS Hillslope": 1,
+   "TSS Gully": 4.968638025,
+   "TSS Inchannel": 1.530915054,
+   "TSS Point": 2.400784753,
+   "TSS Total": 3.333829193,
+   "Microbial": 4.619806725,
+   "Combined": 5
+ },
+ {
+   "LocationId": 204,
+   "TSS Hillslope": 2.653123191,
+   "TSS Gully": 2.897498418,
+   "TSS Inchannel": 1,
+   "TSS Point": 3.008435731,
+   "TSS Total": 1.907694938,
+   "Microbial": 1,
+   "Combined": 4
+ },
+ {
+   "LocationId": 205,
+   "TSS Hillslope": 2.592096725,
+   "TSS Gully": 2.743500288,
+   "TSS Inchannel": 1,
+   "TSS Point": 1.472726436,
+   "TSS Total": 3.383001124,
+   "Microbial": 1.318323788,
+   "Combined": 4
+ },
+ {
+   "LocationId": 206,
+   "TSS Hillslope": 3.075864589,
+   "TSS Gully": 1,
+   "TSS Inchannel": 2.207443537,
+   "TSS Point": 1.820162408,
+   "TSS Total": 1,
+   "Microbial": 1.156982639,
+   "Combined": 4
+ },
+ {
+   "LocationId": 207,
+   "TSS Hillslope": 1.993366463,
+   "TSS Gully": 1,
+   "TSS Inchannel": 4.131353781,
+   "TSS Point": 2.859288153,
+   "TSS Total": 2.773213164,
+   "Microbial": 3.325802334,
+   "Combined": 5
+ }
+]

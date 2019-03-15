@@ -1,0 +1,140 @@
+<div id="main">
+    <div class="row">
+        <div class="col-xl-6 left-panel">
+            <div class="map-instructions">
+                <p>
+                    <strong>Grab</strong> the slider to toggle before and after our onground interventions<br />
+                    <strong>Select</strong> a WTP region to drill down to its risk and intervention details
+                </p>
+            </div>
+            <div class="map-controls clearfix">
+                <button id="backToParent" type="button" class="btn btn-outline-primary pull-left"><< Back</button>
+            </div>
+            <div class="mapDiv maps">
+                <input type="range" min="0" max="100" value="50" class="slider" id="myRange">
+                <div id="originalMap"></div>
+                <div id="targetMap"></div>
+            </div>
+        </div>
+        <div class="col-xl-6 right-panel">
+            <h2>Risk in [Region] - [Planning Unit]</h2>
+            <div class="mapDiv risk-vis" id="dataComparison">
+                <div class="row title" id="OVERALLRISK">
+
+                </div>
+                <div class="row bartitle">
+                    <h3>Total Suspended Sediment (TSS)</h3>
+                    <div class="col-xs-12 svgDiv" id="TSSTITLE">
+
+                    </div>
+
+                </div>
+                <div class="row barchart" id="TSSBARCHART">
+
+                </div>
+                <div class="row bartitle">
+                    <h3>Bacteria | Protozoa | Virus</h3>
+                    <div class="col-xs-12 svgDiv" id="MICROBIALTITLE">
+
+                    </div>
+
+                </div>
+                <div class="row barchart" id="MICROBIALBARCHART">
+
+                </div>
+                <div class="row title interventions">
+                    <h3>Key interventions in this region</h3>
+                    <div class="col-xs-12 svgDiv" id="KEYINTERVENTION">
+                    </div>
+
+                </div>
+                <div class="row title" id="INTERVENTIONDESCRIPTION">
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row" style="min-width : 50PX;">
+    <div class="col-xs-6 mapDiv">
+
+    </div>
+    <div class="col-xs-6 mapDiv">
+
+    </div>
+</div>
+<link rel="stylesheet" href="../../wwwroot/lib/bootstrap/dist/css/bootstrap.min.css" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700|Roboto+Condensed:400,300,700">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+
+
+<link rel="stylesheet" type="text/css" href="../../wwwroot/css/bootstrap.css">
+<link rel="stylesheet" type="text/css" href="../../wwwroot/css/CIDSS/rangeSlider.css" />
+<link rel="stylesheet" type="text/css" href="../../wwwroot/css/handsontable.full.css">
+
+<link rel="stylesheet" type="text/css" href="../../wwwroot/css/leaflet.css" />
+<link rel="stylesheet" type="text/css" href="../../wwwroot/css/messageBox.css">
+<link rel="stylesheet" type="text/css" href="../../wwwroot/css/switch.css">
+<link rel="stylesheet" type="text/css" href="../../wwwroot/css/ui.fancytree.css">
+
+
+<link rel="stylesheet" type="text/css" href="../../wwwroot/css/seqWater.css">
+<link rel="stylesheet" type="text/css" href="../../wwwroot/css/CIDSS/cidss.css" />
+<link rel="stylesheet" href="../../wwwroot/css/site.css" />
+
+<script src="../../wwwroot/lib/jquery/dist/jquery-3.2.1.min.js"></script>
+<script src="../../wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+<script src="../../wwwroot/js/leaflet.js"></script>
+<script src="../../wwwroot/js/L.Map.Sync.js"></script>
+<script src="../../wwwroot/js/cidss/cidss.rangeSlider.js"></script>
+
+
+<script src="../../wwwroot/js/data.SEQSubCatchments.js"></script>
+<script src="../../wwwroot/js/data.groupedGEO.js"></script>
+<script src="../../wwwroot/js/cidss.truii.services.js"></script>
+<script src="../../wwwroot/js/truii/truii.navtreeDynamic.js"></script>
+<script src="../../wwwroot/js/truii/truii.tools.js"></script>
+<script src="../../wwwroot/js/truii/truii.dialogs.cidss.js"></script>
+<script src="../../wwwroot/js/truii/truii.secnarioFiles.cidss.js"></script>
+<script src="../../wwwroot/js/d3/d3.v4.js"></script>
+<script src="../../wwwroot/js/jquery/jquery-ui-1.10.4.custom.js"></script>
+<script src="../../wwwroot/js/jquery/jquery.ui-contextmenu.min.js"></script>
+<script src="../../wwwroot/js/jquery/jquery.fancytree.js"></script>
+<script src="../../wwwroot/js/jquery/jquery.fancytree.persist.js"></script>
+<script src="../../wwwroot/js/jquery/jquery.cookie.js"></script>
+<script src="../../wwwroot/js/jquery/json.js"></script>
+<script src="../../wwwroot/js/turf/turf.min.js"></script>
+<script src="../../wwwroot/js/jsts/JSTS.js"></script>
+
+<script src="../../wwwroot/js/cidss.ajaxFunctions.js"></script>
+
+<script src="../../wwwroot/js/cidss/cidss.brisbane.logic.js"></script>
+<script src="../../wwwroot/js/cidss/cidss.colorScales.js"></script>
+<script src="../../wwwroot/js/cidss/cidss.mapsInitializeAndSync.js"></script>
+<script src="../../wwwroot/js/cidss/cidss.rangeSlider.js"></script>
+
+<script src="../../wwwroot/js/cidss/cidss.twoSidesbarChart.js"></script>
+<script src="../../wwwroot/js/cidss/cidss.geoJSON.tool.js"></script>
+
+<script src="../../wwwroot/js/cidss/cidss.data.initialize.js"></script>
+
+<script src="../../wwwroot/js/cidss/cidss.dataProcess.js"></script>
+
+
+<script src="../../data/original.js"></script>
+<script src="../../data/unioned.js"></script>
+
+<script>
+    $("#backToParent").on("click", function () { scenario.clickFunction(this, "father"); });
+    $('[data-toggle="tooltip"]').tooltip({ container: '.row' });
+    truiiWCF.initialise("@ViewBag.truiiServer", "@ViewBag.UID");
+
+    // var unionedFiles = "fileID";  //@Html.Raw(@ViewBag.unionedFiles);
+    // var originalFiles = "fileID"; //(@Html.Raw(@ViewBag.originalFiles)).features;
+
+    scenario.initialize(unioned, orgianl.features);
+</script>
+
+}

@@ -1,0 +1,292 @@
+﻿/************************
+
+    RESETS
+    GLOBAL
+    LAYOUT
+    TYPOGRAPHY
+    COLOUR
+    LINKS
+    NAVIGATION
+    HEADER
+    FORMS
+    MAPS
+    FOOTER
+    LOADER
+    MODAL POPUP
+    MEDIA QUERIES
+
+********************/
+
+/*******************
+ RESETS covered by bootstrap :) */
+
+/*******************
+    GLOBAL */
+
+html {
+    height: 100%;
+    max-height: 100%;
+    position: relative;
+}
+
+body {
+    color: #77777a;
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    height: 100%;
+    line-height: 1.4;
+    /* Margin bottom by footer height 
+    margin-bottom: 0;*/
+    text-align: center;
+}
+
+/*******************
+    LAYOUT */
+
+/* top padding pushes content below the fixed header */
+.content {
+    padding:30px 15px 0;
+}
+
+#cidssBody {
+    border-top:#5CE3F9 1px solid;
+    padding-top:2rem;
+}
+
+#main {
+    margin-bottom:130px;
+}
+
+
+/*******************
+    TYPOGRAPHY  */
+
+
+h1, h2, h3, h4, h5, h6,
+.navbar a, .navbar-btn {
+    font-family: "Roboto Condensed", Helvetica, Arial, sans-serif;
+    font-weight: 300;
+}
+
+/*******************
+    COLOUR  */
+
+.bg-primary { background:#08BFDD !important; }
+.bg-secondary { background: #ACACAE !important; }
+
+
+/*******************
+    LINKS  */
+
+a, a:visited {
+    color: #08BFDD;
+}
+
+a:focus,
+a:active,
+a:hover {
+    color: #5CE3F9;
+    text-decoration: underline;
+}
+
+/* Add fading transition to links and buttons */
+a,
+a.btn,
+button, input[type=submit] {
+    -webkit-transition: all ease 1s;
+    -moz-transition: all ease 1s;
+    -o-transition: all ease 1s;
+    transition: all ease 1s;
+    text-decoration: none;
+}
+
+.btn {
+    border-radius: 0.15rem;
+    box-shadow: none;
+    cursor: pointer;
+    outline: none;
+}
+.btn-link { color:#08BFDD !important; }
+.btn:focus {
+    box-shadow: 0 0 0 0.2rem rgba(8,191,221,.25) !important;
+}
+
+.btn.disabled:active,
+.btn.disabled:focus {
+    box-shadow: none !important;
+}
+.btn-primary,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:not([disabled]):not(.disabled).active,
+.btn-primary:not([disabled]):not(.disabled):active,
+.show > .btn-primary.dropdown-toggle {
+    background: #08BFDD;
+    border: 1px solid #08BFDD;
+    color: #ffffff;
+}
+    .btn-primary:hover,
+    .btn-primary:hover:active,
+    .btn-primary:hover:focus {
+        background: #5CE3F9;
+        border: 1px solid #08BFDD;
+    }
+.btn-outline-primary,
+.btn-outline-primary:active,
+.btn-outline-primary:focus {
+    background: #FFFFFF;
+    border: 1px solid #08BFDD;
+    color: #08BFDD;
+}
+
+    .btn-outline-primary:hover,
+    .btn-outline-primary:hover:active,
+    .btn-outline-primary:hover:focus {
+        background: #FFFFFF;
+        border: 1px solid #5CE3F9;
+        color: #5CE3F9;
+    }
+
+/*******************
+    NAVIGATION  */
+
+.navbar { 
+    border-radius:0;
+    color:#fff;
+    margin-bottom:0;
+}
+a.navbar-brand,
+a.navbar-brand:hover {
+    color: #fff;
+    font-size: 2rem;
+}
+.navbar-toggler {
+    border:2px solid #fff;
+    color:#fff;
+    /* (80px - button height 34px) / 2 = 23px 
+    margin-top: 23px;
+    padding: 9px 10px !important;*/
+}
+.navbar .nav > li > a { font-size:2.5rem; }
+.navbar .nav > li > a:hover { text-decoration:underline; }
+
+.nav-item {
+    border-top: 1px solid #fff;
+}
+a.nav-link {
+    color: #fff;
+}
+
+
+/* hiding  hello username as it isn't necessary */
+.navbar-right { margin-right:0; }
+.navbar-right li:first-child { display:none; }
+
+/*******************
+    HEADER  */
+
+.content > header {
+
+}
+
+.content > header h1 {
+    color:#08BFDD;
+    margin:0.5rem;
+}
+
+
+/*******************
+    FEATURED  */
+.map-controls button { line-height:1; }
+
+.right-panel h2 {
+    color:#08BFDD;
+    font-size:2.4rem;
+    padding:0.8rem 0 1.4rem 0;
+}
+.risk-vis h3 { 
+    color:#ACACAE;
+    font-size:1.3rem;
+    font-weight:400;
+    text-align:center;
+    width:100%;
+}
+.risk-vis .title:first-child, 
+.risk-vis .interventions h3 {
+    margin-top:1rem;
+}
+
+
+/*******************
+    FORMS  */
+/* Set widths on the form inputs since otherwise they're 100% wide */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+/* Carousel */
+.carousel-caption p {
+    font-size: 20px;
+    line-height: 1.4;
+}
+
+/* buttons and links extension to use brackets: [ click me ] */
+.btn-bracketed::before {
+    display: inline-block;
+    content: "[";
+    padding-right: 0.5em;
+}
+
+.btn-bracketed::after {
+    display: inline-block;
+    content: "]";
+    padding-left: 0.5em;
+}
+
+/* Make .svg files in the carousel display properly in older browsers */
+.carousel-inner .item img[src$=".svg"] {
+    width: 100%;
+}
+
+/* Hide/rearrange for smaller screens */
+@media screen and (max-width: 767px) {
+    /* Hide captions */
+    .carousel-caption {
+        display: none;
+    }
+}
+
+
+
+/*******************
+    FOOTER */
+
+.footer {
+    background-color: #252628;
+    /*bottom:0;*/
+    box-sizing: border-box;
+    color: #ffffff;
+    font-weight: 300;
+    height:70px;
+    line-height:70px;
+    padding:1.5rem 0;
+    /*position:absolute;*/
+    width: 100%;
+}
+.footer .container { margin-top:-25px; }
+.footer p {margin-bottom:0;}
+
+/*******************
+   MEDIA QUERIES */
+
+@media (min-width: 768px) {
+    .navbar-nav > li > a {
+        /* (80px - line-height of 27px) / 2 = 26.5px */
+        padding-top: 26.5px;
+        padding-bottom: 26.5px;
+        line-height: 27px;
+    }
+}

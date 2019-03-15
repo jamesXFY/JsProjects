@@ -1,0 +1,61 @@
+#originalMap {
+    width: 500px;
+    height: 500px;
+    position: fixed;
+    clip: rect(0px, 250px, 500px, 0px);
+}
+
+#targetMap {
+    width: 500px;
+    height: 500px;
+    position: fixed;
+    clip: rect(0px, 500px, 500px, 250px);
+}
+
+.svgRight {
+    width: 100%;
+}
+
+input[type="g"] {
+    width: 100%;
+}
+
+text {
+    /*font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif !important; */
+    /*font-size: 20;*/
+    font-family: Papyrus, fantasy !important;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    line-height: 26.4px;
+}
+
+    text.small {
+        font-size: 9px !important;
+    }
+
+    text.middle {
+        font-size: 18px !important;
+    }
+
+    text.large {
+        font-size: 27px !important;
+    }
+
+tspan.small {
+    font-size: 9px !important;
+    fill: white;
+    font-weight: bold;
+}
+
+tspan.middle {
+    font-size: 18px !important;
+    fill: white;
+    font-weight: bold;
+}
+
+tspan.large {
+    font-size: 27px !important;
+    fill: white;
+    font-weight: bold;
+}
